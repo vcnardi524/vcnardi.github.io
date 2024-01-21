@@ -12,7 +12,7 @@ html {
     line-height: 1.6;
     --font-family-base: "SF Pro Text", "Courier New", "Inter", -apple-system, BlinkMacSystemFont, "Helvetica Neue", Arial, sans-serif;
     --color: rgb(68, 68, 68);
-    --backgroundColor: #f6f1eb;
+    --backgroundColor: black;
 }
 
 hr {
