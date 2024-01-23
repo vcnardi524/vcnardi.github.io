@@ -93,7 +93,7 @@
 
 .view-image span{
     color:white;
-    font-size: 4rem;
+    font-size: 1.5rem;
     position: absolute;
     /* top: 3%;
     right: 15%; */
@@ -132,7 +132,7 @@
     }
     .view-image span{
         color:white;
-        font-size: 2rem;
+        font-size: 1rem;
         position:absolute;
         /* top: 1%;
         right: 5%; */
