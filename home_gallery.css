@@ -17,9 +17,11 @@
 }
 
 .gallery .travel_gallery .column{
+
     display: flex;
     flex-direction: column;
     width: 32.5%;
+    
 }
 
 .gallery .travel_gallery .column img{
@@ -28,6 +30,8 @@
     object-position: 50% 50%; 
     padding-bottom: 10px;
     border-radius: 2px;
+    cursor:pointer;
+
 }
 .gallery .travel_gallery .column img:hover{
     opacity: 50%;
@@ -138,4 +142,21 @@
         right: 5%; */
         cursor: pointer;
     }
+}
+
+.gallery .galleryRoller{
+    display: block;
+    margin: auto;
+    border: none;
+    background-color: cornflowerblue;
+    color: lightyellow;
+    margin-bottom: 15px;
+    border-radius: 2px;
+    width: 150px;
+    height: 35px;
+
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
 }
