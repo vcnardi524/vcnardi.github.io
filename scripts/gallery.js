@@ -82,6 +82,7 @@ function handleResize(){
 window.addEventListener("resize", handleResize)
 window.addEventListener('load', function() {
     // Code to be executed after the page has fully loaded
+    setUpImagePopup();
 });
 
 
